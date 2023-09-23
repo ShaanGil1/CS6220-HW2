@@ -34,3 +34,4 @@ conda activate HW2
 - /report_images : All images used in report
 - /k_images : dataset for Outlier Test Scenario
 - /models : .pth files for all trained models  (saves all model weights)
+- HW2_report.pdf : Contains the full report
